@@ -38,7 +38,7 @@ dbis Takip.bak dosyasını SQL Server'a "Restore Database" yaparak yükleyin.
 Visual Studio ile .sln dosyasını açın.
 
 ## 📷 Ekran Görüntüleri
-<img width="1920" height="1080" alt="Ekran Görüntüsü (191)" src="https://github.com/user-attachments/assets/e30b600a-1006-4aae-beca-12c4291fd1c2" />
+
 <img width="1920" height="1080" alt="Ekran Görüntüsü (192)" src="https://github.com/user-attachments/assets/cedbb1bd-f0c1-44a6-8e1f-8375e113e3b1" />
 <img width="1920" height="1080" alt="Ekran Görüntüsü (193)" src="https://github.com/user-attachments/assets/a9abe09e-ac52-42eb-ac8b-446c43f971b8" />
 <img width="1920" height="1080" alt="Ekran Görüntüsü (194)" src="https://github.com/user-attachments/assets/7b755c1e-e6c2-4626-9cd1-42bb761223e2" />
